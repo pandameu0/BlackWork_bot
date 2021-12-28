@@ -16,8 +16,8 @@ module.exports = {
 
     let helpEmbed = new MessageEmbed()
     .setThumbnail(``)
-    .setTitle(`**Black BOT**`)
-    .setDescription(`
+    .setTitle(`**XATAR**`)
+    .setDescription(``)
 
 **<:infoo:898268542607183872>┊𝗜𝗻𝗳𝗼 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀**
 invite : support : about : ping : prefix : uptime : invites : sug : roleuser
@@ -35,7 +35,7 @@ play : skip : stop : vol : search : resume : remove : queue : loop :radio
 `)
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
    .setColor("BLACK");
-   message.react("<:emoji_4:822203026776391711>")
+   message.react("<a:emoji_4:822203026776391711>")
     return message.channel.send(helpEmbed).catch(console.error);
 
   }
