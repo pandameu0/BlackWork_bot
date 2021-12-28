@@ -30,7 +30,7 @@ pboy: pgirl : panime : pneon : panimal : pcouple : psmoking : pbillie : meme
 **<:musicc:898267944109346868>┊𝗠𝘂𝘀𝗶𝗰 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀**
 play : skip : stop : vol : search : resume : remove : queue : loop :radio
 **__𝗖𝗹𝗶𝗰𝗸__**
-[Support Server](https://discord.gg/AaC2MCVupt) : [Invite Bot](https://discord.com/oauth2/authorize?client_id=892061148285894736&permissions=8&scope=bot)
+[Support Server](https://discord.gg/nPSAaGu755) : [Invite Bot](https://discord.com/oauth2/authorize?client_id=892061148285894736&permissions=8&scope=bot)
 
 `)
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
