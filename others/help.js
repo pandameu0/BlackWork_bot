@@ -16,7 +16,6 @@ module.exports = {
 
     let helpEmbed = new MessageEmbed()
     .setThumbnail(``)
-    .setImage(`https://media.discordapp.net/attachments/859628813230932008/898146533567004673/20211014_125318.png`)
     .setTitle(`**Black BOT**`)
     .setDescription(`
 
